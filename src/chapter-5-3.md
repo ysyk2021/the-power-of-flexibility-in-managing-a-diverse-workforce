@@ -1,5 +1,4 @@
-Chapter 5: Maximizing Your Workforce Potential through Flexibility: Strengthening Customer Relationships and Loyalty
-====================================================================================================================
+# Strengthening Customer Relationships and Loyalty
 
 Flexible management practices not only benefit the success and well-being of team members, but they can also have a positive impact on customer relationships and loyalty. In this chapter, we will explore how maximizing your workforce potential through flexibility can strengthen customer relationships and loyalty.
 

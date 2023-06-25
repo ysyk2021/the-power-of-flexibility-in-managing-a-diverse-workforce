@@ -1,5 +1,4 @@
-Chapter 3: The Role of Flexibility in Managing a Diverse Workforce: Promoting Work-Life Integration and Balance
-===============================================================================================================
+# Promoting Work-Life Integration and Balance
 
 Promoting work-life integration and balance is a critical component of managing a diverse workforce. In this chapter, we will explore the role of flexibility in promoting work-life integration and balance and strategies for implementing flexible management practices.
 

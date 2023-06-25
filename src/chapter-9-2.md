@@ -1,5 +1,4 @@
-Chapter 9: Ethical Considerations in Flexible Management of a Diverse Workforce: Balancing Individual and Organizational Needs
-==============================================================================================================================
+# Balancing Individual and Organizational Needs
 
 Flexible management practices can have significant benefits for managing a diverse workforce, but they also raise ethical considerations that managers must address. In this chapter, we will explore the importance of balancing individual and organizational needs in flexible management of a diverse workforce.
 

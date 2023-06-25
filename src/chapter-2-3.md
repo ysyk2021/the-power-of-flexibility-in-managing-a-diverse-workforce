@@ -1,5 +1,4 @@
-Chapter 2: Understanding Diversity and Inclusion: Common Myths about Diversity and Inclusion
-============================================================================================
+# Common Myths about Diversity and Inclusion
 
 Understanding common myths about diversity and inclusion is essential for managing a diverse workforce. In this chapter, we will explore some of the most common myths about diversity and inclusion and why they are not true.
 

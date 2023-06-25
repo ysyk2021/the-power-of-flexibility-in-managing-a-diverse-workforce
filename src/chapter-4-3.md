@@ -1,5 +1,4 @@
-Chapter 4: Techniques for Flexibly Managing a Diverse Workforce: Encouraging Open Communication and Feedback
-============================================================================================================
+# Encouraging Open Communication and Feedback
 
 Effective communication is essential for flexibly managing a diverse workforce. In this chapter, we will explore the importance of encouraging open communication and feedback in promoting diversity and inclusion.
 

@@ -1,5 +1,4 @@
-Chapter 7: Overcoming Obstacles to Flexible Management of a Diverse Workforce: Common Obstacles to Flexible Management of a Diverse Workforce
-=============================================================================================================================================
+# Common Obstacles to Flexible Management of a Diverse Workforce
 
 Implementing flexible management practices for a diverse workforce can present challenges and obstacles. In this chapter, we will explore common obstacles to flexible management of a diverse workforce.
 

@@ -1,5 +1,4 @@
-Chapter 4: Techniques for Flexibly Managing a Diverse Workforce: Providing Flexible Work Arrangements and Schedules
-===================================================================================================================
+# Providing Flexible Work Arrangements and Schedules
 
 Providing flexible work arrangements and schedules is one of the most effective techniques for flexibly managing a diverse workforce. In this chapter, we will explore the benefits of offering flexible work arrangements and schedules and strategies for implementing them.
 

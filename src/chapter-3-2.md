@@ -1,5 +1,4 @@
-Chapter 3: The Role of Flexibility in Managing a Diverse Workforce: Accommodating Different Needs and Preferences
-=================================================================================================================
+# Accommodating Different Needs and Preferences
 
 Managing a diverse workforce requires flexibility to accommodate different needs and preferences. In this chapter, we will explore the role of flexibility in managing a diverse workforce and strategies for accommodating different needs and preferences.
 

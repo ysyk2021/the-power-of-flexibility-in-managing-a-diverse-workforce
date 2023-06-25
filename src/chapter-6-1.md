@@ -1,5 +1,4 @@
-Chapter 6: Measuring Success in Flexible Management of a Diverse Workforce: Key Performance Indicators (KPIs) for Measuring Success
-===================================================================================================================================
+# Key Performance Indicators (KPIs) for Measuring Success
 
 Measuring the success of flexible management practices for a diverse workforce is important for ongoing improvement and growth. In this chapter, we will explore key performance indicators (KPIs) that managers can use to measure the success of their flexible management practices.
 

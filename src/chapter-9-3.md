@@ -1,5 +1,4 @@
-Chapter 9: Ethical Considerations in Flexible Management of a Diverse Workforce: Addressing Potential Risks and Consequences of Flexibility in Managing a Diverse Workforce
-===========================================================================================================================================================================
+# Addressing Potential Risks and Consequences of Flexibility in Managing a Diverse Workforce
 
 Flexible management practices can have significant benefits for managing a diverse workforce. However, there are also potential risks and consequences that managers must consider when implementing these practices. In this chapter, we will explore ethical considerations in flexible management of a diverse workforce and strategies for addressing potential risks and consequences.
 

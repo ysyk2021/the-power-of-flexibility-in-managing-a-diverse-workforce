@@ -1,5 +1,4 @@
-Chapter 6: Measuring Success in Flexible Management of a Diverse Workforce: Qualitative and Quantitative Methods for Evaluation
-===============================================================================================================================
+# Qualitative and Quantitative Methods for Evaluation
 
 Measuring the success of flexible management practices for a diverse workforce requires ongoing evaluation and assessment. In this chapter, we will explore qualitative and quantitative methods for evaluating the effectiveness of flexible management practices.
 
