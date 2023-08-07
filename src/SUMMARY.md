@@ -2,7 +2,6 @@
 
 - [Chapter 1: Introduction](README.md)
   - [Importance of Flexibility in Managing a Diverse Workforce](chapter-1-1.md)
-  - [Overview of the Book](chapter-1-2.md)
 - [Chapter 2: Understanding Diversity and Inclusion](chapter-2.md)
   - [Definition of Diversity and Inclusion](chapter-2-1.md)
   - [Benefits of a Diverse and Inclusive Workplace](chapter-2-2.md)
