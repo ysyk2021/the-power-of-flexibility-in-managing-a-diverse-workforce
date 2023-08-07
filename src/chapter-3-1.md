@@ -1,4 +1,4 @@
-Chapter 5: Creating a Flexible and Adaptable Culture
+Creating a Flexible and Adaptable Culture
 ====================================================
 
 In this chapter, we will explore the importance of creating a flexible and adaptable culture within your organization. As the business landscape continues to evolve rapidly, it is crucial for companies to foster an environment that embraces change and encourages employees to be agile in their workstyles.
