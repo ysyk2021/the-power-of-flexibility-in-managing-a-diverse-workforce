@@ -3,7 +3,7 @@ Chapter 8: Case Studies of Successful Flexible Management of a Diverse Workforce
 
 This chapter provides real-life examples of companies that have successfully managed a diverse workforce through flexibility. By examining the strategies and techniques used by these companies, readers can gain valuable insights into how to effectively manage a diverse team.
 
-Subchapter 1: Real-life Examples of Companies who have Successfully Managed a Diverse Workforce through Flexibility
+Real-life Examples of Companies who have Successfully Managed a Diverse Workforce through Flexibility
 -------------------------------------------------------------------------------------------------------------------
 
 ### Example 1: Google

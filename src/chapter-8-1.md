@@ -3,7 +3,7 @@ Real-life Examples of Companies Who Have Successfully Managed a Diverse Workforc
 
 In this chapter, we will explore real-life examples of companies that have effectively managed their diverse workforce through the implementation of flexible policies and practices. These organizations have recognized the value of diversity and leveraged flexibility to create inclusive workplaces where employees can thrive. By doing so, they have not only enhanced their productivity but also fostered a culture of innovation and collaboration.
 
-1. Acme Corporation
+1\. Acme Corporation
 -------------------
 
 Acme Corporation, a global technology company, has been at the forefront of managing a diverse workforce through flexibility. Recognizing that employees have different needs and preferences, they have implemented several flexible initiatives. These include:
@@ -15,7 +15,7 @@ Acme Corporation, a global technology company, has been at the forefront of mana
 
 Through these flexible practices, Acme Corporation has created an inclusive work environment and has seen improved employee satisfaction and retention rates.
 
-2. Diversity Tech Solutions
+2\. Diversity Tech Solutions
 ---------------------------
 
 Diversity Tech Solutions, a software development company, has embraced flexibility to manage its diverse workforce successfully. They have implemented the following strategies:
@@ -27,7 +27,7 @@ Diversity Tech Solutions, a software development company, has embraced flexibili
 
 These initiatives have enabled Diversity Tech Solutions to attract top talent from diverse backgrounds and cultivate an inclusive work environment where employees feel valued and empowered.
 
-3. Inclusive Retail Company
+3\. Inclusive Retail Company
 ---------------------------
 
 An inclusive retail company has successfully managed its diverse workforce by implementing flexible practices that accommodate various needs:
