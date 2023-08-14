@@ -24,17 +24,6 @@ Encouraging open communication and feedback is crucial for flexibly managing a d
 
 Open communication and feedback can take many forms, such as regular check-ins, team meetings, or anonymous surveys. By soliciting feedback and actively listening to employees' concerns and suggestions, managers can promote a culture of inclusivity and respect that benefits all team members.
 
-Overcoming Resistance to Flexible Management Practices
-------------------------------------------------------
-
-Resistance to flexible management practices can be a common barrier to promoting diversity and inclusion in the workplace. To overcome this resistance, managers can:
-
-* Educate employees about the benefits of flexible management practices and how they support the success and well-being of all team members
-* Establish clear guidelines and expectations for flexible management practices to ensure that work is completed on time and to the required standard
-* Regularly assess and evaluate the effectiveness of flexible management practices in promoting diversity and inclusion
-
-By overcoming resistance to flexible management practices, managers can create a workplace culture that values diversity, inclusivity, and collaboration.
-
 Conclusion
 ----------
 

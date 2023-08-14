@@ -25,7 +25,6 @@
   - [Common Obstacles to Flexible Management of a Diverse Workforce](chapter-7-1.md)
   - [Strategies for Overcoming Challenges](chapter-7-2.md)
 - [Chapter 8: Case Studies of Successful Flexible Management of a Diverse Workforce](chapter-8.md)
-  - [Real-life Examples of Companies who have Successfully Managed a Diverse Workforce through Flexibility](chapter-8-1.md)
 - [Chapter 9: Ethical Considerations in Flexible Management of a Diverse Workforce](chapter-9.md)
   - [Understanding Ethical Guidelines and Standards](chapter-9-1.md)
   - [Balancing Individual and Organizational Needs](chapter-9-2.md)
