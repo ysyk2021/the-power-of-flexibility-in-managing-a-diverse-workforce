@@ -1,5 +1,3 @@
-Chapter 9: Ethical Considerations in Flexible Management of a Diverse Workforce
-===============================================================================
 
 Managing a diverse workforce requires ethical considerations to create a fair and equitable workplace. In this chapter, we will explore the importance of understanding ethical guidelines and standards, balancing individual and organizational needs, and addressing potential risks and consequences of flexibility in managing a diverse workforce.
 

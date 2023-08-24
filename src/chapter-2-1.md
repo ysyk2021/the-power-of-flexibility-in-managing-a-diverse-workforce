@@ -1,5 +1,3 @@
-Definition of Diversity and Inclusion
-================================================
 
 In today's globalized world, organizations are increasingly recognizing the importance of embracing diversity and fostering inclusion in the workplace. This chapter aims to provide a comprehensive understanding of what diversity and inclusion entail, their significance, and how they contribute to the success of a diverse workforce.
 

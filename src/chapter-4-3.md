@@ -1,5 +1,3 @@
-Encouraging Open Communication and Feedback
-====================================================
 
 In this chapter, we will explore the significance of fostering open communication and feedback within a diverse workforce. By creating an environment that encourages dialogue and actively seeks input from employees, organizations can benefit from increased collaboration, innovation, and overall employee satisfaction.
 

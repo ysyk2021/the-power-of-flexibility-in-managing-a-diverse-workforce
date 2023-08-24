@@ -1,5 +1,3 @@
-Common Myths About Diversity and Inclusion
-===================================================
 
 In this chapter, we will explore and debunk some common myths surrounding diversity and inclusion in the workplace. It is crucial to address these misconceptions to foster a more inclusive and harmonious working environment.
 

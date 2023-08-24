@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Managing a diverse workforce requires flexibility, adaptability, and a commitment to creating a workplace culture that values diversity and inclusivity. In this chapter, we will explore the importance of flexibility in managing a diverse workforce and provide an overview of the book.
 

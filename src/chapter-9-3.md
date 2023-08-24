@@ -1,5 +1,3 @@
-Addressing Potential Risks and Consequences of Flexibility in Managing a Diverse Workforce
-========================================================================================================
 
 In this chapter, we will explore the potential risks and consequences that organizations may face when implementing flexibility in managing a diverse workforce. While flexibility can bring numerous benefits, it is crucial to understand and address these challenges to ensure a successful and inclusive work environment.
 

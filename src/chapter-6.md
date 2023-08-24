@@ -1,5 +1,3 @@
-Chapter 6: Measuring Success in Flexible Management of a Diverse Workforce
-==========================================================================
 
 Managing a diverse and flexible workforce requires a commitment to ongoing evaluation and measurement of success. In this chapter, we will explore key performance indicators (KPIs) for measuring success and qualitative and quantitative methods for evaluation.
 

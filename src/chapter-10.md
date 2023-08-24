@@ -1,5 +1,3 @@
-Chapter 10: Conclusion
-======================
 
 Managing a diverse workforce requires a commitment to flexibility and adaptability. In this book, we have explored the power of flexibility in managing a diverse workforce and provided strategies for implementing flexible management practices.
 

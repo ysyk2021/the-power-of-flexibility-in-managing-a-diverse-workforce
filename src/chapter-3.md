@@ -1,5 +1,3 @@
-Chapter 3: The Role of Flexibility in Managing a Diverse Workforce
-==================================================================
 
 Managing a diverse workforce requires flexibility to accommodate different needs and preferences, promote work-life integration and balance, and create a flexible and adaptable culture. In this chapter, we will explore the role of flexibility in managing a diverse workforce and strategies for implementing flexible management practices.
 

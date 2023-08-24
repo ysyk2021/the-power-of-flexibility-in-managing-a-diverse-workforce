@@ -1,4 +1,3 @@
-# Understanding Ethical Guidelines and Standards
 
 Managing a diverse workforce requires ethical considerations to create a fair and equitable workplace. In this chapter, we will explore the importance of understanding ethical guidelines and standards when implementing flexible management practices.
 

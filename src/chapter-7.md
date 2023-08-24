@@ -1,5 +1,3 @@
-Chapter 7: Overcoming Obstacles to Flexible Management of a Diverse Workforce
-=============================================================================
 
 Managing a diverse and flexible workforce can present challenges for managers. In this chapter, we will explore common obstacles to flexible management of a diverse workforce and provide strategies for overcoming these challenges.
 

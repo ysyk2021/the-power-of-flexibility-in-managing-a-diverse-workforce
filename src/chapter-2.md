@@ -1,5 +1,3 @@
-Chapter 2: Understanding Diversity and Inclusion
-================================================
 
 Understanding diversity and inclusion is essential for managing a diverse workforce. In this chapter, we will explore the definition of diversity and inclusion, benefits of a diverse and inclusive workplace, and common myths about diversity and inclusion.
 
@@ -37,5 +35,4 @@ Conclusion
 ----------
 
 Understanding diversity and inclusion is essential for managing a diverse workforce. A commitment to creating a diverse and inclusive workplace fosters innovation, engagement, and competitiveness, benefiting both employees and the organization as a whole. By recognizing the benefits of diversity and inclusion and addressing common myths, managers can create a workplace culture that values diversity, inclusivity, and collaboration.
-
 
