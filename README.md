@@ -1,3 +1,6 @@
+# The Power of Flexibility in Managing a Diverse Workforce
+
+Book Link: [https://zhengpublishing.com/the-power-of-flexibility-in-managing-a-diverse-workforce/](https://zhengpublishing.com/the-power-of-flexibility-in-managing-a-diverse-workforce/)
 
 "The Power of Flexibility in Managing a Diverse Workforce" is a timely and essential guide that explores the strategies and techniques that managers can use to effectively manage a diverse team. With the increasing globalization of business and the growing importance of diversity and inclusion, it has become more important than ever for managers to be able to lead and motivate teams with different backgrounds, cultures, and perspectives.
 
